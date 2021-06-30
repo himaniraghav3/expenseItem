@@ -9,8 +9,8 @@ In the project directory, you can run:
 ### `yarn start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3001](http://localhost:3001) to view it in the browser. 
-On Linux , change the port in package.json from "start": "set PORT=3001 && react-scripts start" to "start": "react-scripts start"
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser. \
+On Linux , change the port in package.json from `"start": "set PORT=3001 && react-scripts start"` to `"start": "react-scripts start"`
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
